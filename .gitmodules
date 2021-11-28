@@ -1,0 +1,6 @@
+[submodule "WebPortion"]
+	path = WebPortion
+	url = https://github.com/Enhancifire/WebPortion.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Enhancifire/Backend.git
